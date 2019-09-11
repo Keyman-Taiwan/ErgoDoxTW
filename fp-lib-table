@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ErgoDone)(type KiCad)(uri ${KIPRJMOD}/lib/ErgoDone.pretty)(options "")(descr ""))
+  (lib (name Enhance)(type KiCad)(uri ${KIPRJMOD}/lib/Enhance.pretty)(options "")(descr ""))
+)

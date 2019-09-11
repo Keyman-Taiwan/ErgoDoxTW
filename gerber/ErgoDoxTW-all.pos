@@ -1,0 +1,15 @@
+### Module positions - created on 2019/9/12 上午 01:17:48 ###
+### Printed by Pcbnew version kicad (5.1.4)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                 Package                                           PosX       PosY       Rot  Side
+R3        2K2                 R_1206_3216Metric_Pad1.42x1.75mm_HandSolder   -83.1739   153.1493    0.0000  bottom
+R6        2K2                 R_1206_3216Metric_Pad1.42x1.75mm_HandSolder   -83.1739   149.8600    0.0000  bottom
+R7        5K1                 R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -101.3190   148.1328  180.0000  bottom
+R8        5K1                 R_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -101.3206   154.8638  180.0000  bottom
+RA2       2K2                 R_1206_3216Metric_Pad1.42x1.75mm_HandSolder   -49.2542   141.1900  270.0000  bottom
+RB2       2K2                 R_1206_3216Metric_Pad1.42x1.75mm_HandSolder   -52.5551   141.1900  270.0000  bottom
+RC2       2K2                 R_1206_3216Metric_Pad1.42x1.75mm_HandSolder   -55.9460   141.1900  270.0000  bottom
+USB1      HRO-TYPE-C-31-M-12  TYPE_C_HRO-TYPE-C-31-M-12                    -114.5514   159.0904    0.0000  bottom
+C2        100nF               C_1206_3216Metric                             180.9877   148.3838   90.0000  top
+## End

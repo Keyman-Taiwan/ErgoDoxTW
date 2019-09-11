@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name component)(type Legacy)(uri ${KIPRJMOD}/lib/component.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/lib/Type-C.lib)(options "")(descr ""))
+)
