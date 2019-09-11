@@ -9,9 +9,12 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 5. Support to use SMD 1206 component for Resistor and Capacitor
 6. **`ONLY`** support 76 keys* due to pcb layout change.
 
+## Software Requirement
+* Kicad 5.1.4 (with eyedrop plugin)
+
 ## Kicad library used by ErgoDoxTW
 * [ai03-2725/Type-C](https://github.com/ai03-2725/Type-C.pretty): type-C Connector (we use HRO-TYPE-C-31-M-12)
 * [daprice/keyswitches](https://github.com/daprice/keyswitches.pretty): Kailh hotplug socket
 
 # Lisence
-GPL v3
+LGPL v3
