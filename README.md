@@ -14,6 +14,11 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 5. Support to use SMD 1206 component for Resistor and Capacitor
 6. **`ONLY`** support 76 keys due to pcb layout change.
 
+## Keypart
+* Master branch:
+  * Type C Connector: HRO-TYPE-C-31-M-12 (A 16 Pins type c connector)
+  * 3.5 mm Audio Jack Connector: SJ-43514
+
 ## Software Requirement
 * Kicad 5.1.4
 
