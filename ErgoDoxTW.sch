@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ErgoDoxTW-cache
 EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
@@ -71,7 +72,7 @@ U 1 1 4F3FEDCE
 P 4700 8650
 F 0 "SW1:11" H 4880 8750 50  0000 C CNN
 F 1 "SW1:2" H 4850 8820 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4700 8650 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4700 8650 60  0001 C CNN
 F 3 "" H 4700 8650 60  0001 C CNN
 	1    4700 8650
 	1    0    0    -1  
@@ -82,7 +83,7 @@ U 1 1 4D92DF9C
 P 4000 8650
 F 0 "SW1:10" H 4180 8750 50  0000 C CNN
 F 1 "SW1:3" H 4150 8820 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4000 8650 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4000 8650 60  0001 C CNN
 F 3 "" H 4000 8650 60  0001 C CNN
 	1    4000 8650
 	1    0    0    -1  
@@ -109,7 +110,7 @@ U 1 1 4EB1DE18
 P 3300 9300
 F 0 "SW0:9" H 3450 9400 50  0000 C CNN
 F 1 "SW0:4" H 3450 9470 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 3300 9300 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 3300 9300 60  0001 C CNN
 F 3 "" H 3300 9300 60  0001 C CNN
 	1    3300 9300
 	1    0    0    -1  
@@ -120,7 +121,7 @@ U 1 1 4EB1DDEB
 P 2600 9300
 F 0 "SW0:8" H 2750 9400 50  0000 C CNN
 F 1 "SW0:5" H 2750 9470 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 2600 9300 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 2600 9300 60  0001 C CNN
 F 3 "" H 2600 9300 60  0001 C CNN
 	1    2600 9300
 	1    0    0    -1  
@@ -131,7 +132,7 @@ U 1 1 4EAB15C0
 P 5400 9300
 F 0 "SW0:12" H 5580 9400 50  0000 C CNN
 F 1 "SW0:1" H 5550 9470 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 5400 9300 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 5400 9300 60  0001 C CNN
 F 3 "" H 5400 9300 60  0001 C CNN
 	1    5400 9300
 	1    0    0    -1  
@@ -142,7 +143,7 @@ U 1 1 4EAB15BC
 P 4700 9300
 F 0 "SW0:11" H 4880 9400 50  0000 C CNN
 F 1 "SW0:2" H 4850 9470 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4700 9300 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4700 9300 60  0001 C CNN
 F 3 "" H 4700 9300 60  0001 C CNN
 	1    4700 9300
 	1    0    0    -1  
@@ -153,7 +154,7 @@ U 1 1 4D92DFA0
 P 5400 8000
 F 0 "SW2:12" H 5580 8100 50  0000 C CNN
 F 1 "SW2:1" H 5560 8170 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 5400 8000 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 5400 8000 60  0001 C CNN
 F 3 "" H 5400 8000 60  0001 C CNN
 	1    5400 8000
 	1    0    0    -1  
@@ -164,7 +165,7 @@ U 1 1 4D92DFBB
 P 6100 8000
 F 0 "SW2:13" H 6280 8100 50  0000 C CNN
 F 1 "SW2:0" H 6260 8170 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 6100 8000 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 6100 8000 60  0001 C CNN
 F 3 "" H 6100 8000 60  0001 C CNN
 	1    6100 8000
 	1    0    0    -1  
@@ -175,7 +176,7 @@ U 1 1 4D92DFAF
 P 6100 8650
 F 0 "SW1:13" H 6280 8750 50  0000 C CNN
 F 1 "SW1:0" H 6250 8820 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 6100 8650 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 6100 8650 60  0001 C CNN
 F 3 "" H 6100 8650 60  0001 C CNN
 	1    6100 8650
 	1    0    0    -1  
@@ -186,7 +187,7 @@ U 1 1 4D92DFAD
 P 6100 7350
 F 0 "SW3:13" H 6280 7450 50  0000 C CNN
 F 1 "SW3:0" H 6250 7520 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 6100 7350 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 6100 7350 60  0001 C CNN
 F 3 "" H 6100 7350 60  0001 C CNN
 	1    6100 7350
 	1    0    0    -1  
@@ -197,7 +198,7 @@ U 1 1 4D92DFA6
 P 1900 8000
 F 0 "SW2:7" H 2050 8100 50  0000 C CNN
 F 1 "SW2:6" H 2050 8170 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 1900 8000 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 1900 8000 60  0001 C CNN
 F 3 "" H 1900 8000 60  0001 C CNN
 	1    1900 8000
 	1    0    0    -1  
@@ -208,7 +209,7 @@ U 1 1 4D92DFA5
 P 2600 8000
 F 0 "SW2:8" H 2750 8100 50  0000 C CNN
 F 1 "SW2:5" H 2750 8170 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 2600 8000 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 2600 8000 60  0001 C CNN
 F 3 "" H 2600 8000 60  0001 C CNN
 	1    2600 8000
 	1    0    0    -1  
@@ -219,7 +220,7 @@ U 1 1 4D92DFA4
 P 3300 8000
 F 0 "SW2:9" H 3450 8100 50  0000 C CNN
 F 1 "SW2:4" H 3450 8170 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 3300 8000 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 3300 8000 60  0001 C CNN
 F 3 "" H 3300 8000 60  0001 C CNN
 	1    3300 8000
 	1    0    0    -1  
@@ -230,7 +231,7 @@ U 1 1 4D92DFA2
 P 4700 8000
 F 0 "SW2:11" H 4880 8100 50  0000 C CNN
 F 1 "SW2:2" H 4860 8170 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4700 8000 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4700 8000 60  0001 C CNN
 F 3 "" H 4700 8000 60  0001 C CNN
 	1    4700 8000
 	1    0    0    -1  
@@ -241,7 +242,7 @@ U 1 1 4D92DF9F
 P 5400 8650
 F 0 "SW1:12" H 5580 8750 50  0000 C CNN
 F 1 "SW1:1" H 5550 8820 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 5400 8650 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 5400 8650 60  0001 C CNN
 F 3 "" H 5400 8650 60  0001 C CNN
 	1    5400 8650
 	1    0    0    -1  
@@ -252,7 +253,7 @@ U 1 1 4D92DF92
 P 2600 7350
 F 0 "SW3:8" H 2750 7450 50  0000 C CNN
 F 1 "SW3:5" H 2750 7520 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 2600 7350 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 2600 7350 60  0001 C CNN
 F 3 "" H 2600 7350 60  0001 C CNN
 	1    2600 7350
 	1    0    0    -1  
@@ -263,7 +264,7 @@ U 1 1 4D92DF91
 P 3300 7350
 F 0 "SW3:9" H 3450 7450 50  0000 C CNN
 F 1 "SW3:4" H 3450 7520 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 3300 7350 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 3300 7350 60  0001 C CNN
 F 3 "" H 3300 7350 60  0001 C CNN
 	1    3300 7350
 	1    0    0    -1  
@@ -274,7 +275,7 @@ U 1 1 4D92DF90
 P 4000 7350
 F 0 "SW3:10" H 4180 7450 50  0000 C CNN
 F 1 "SW3:3" H 4150 7520 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4000 7350 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4000 7350 60  0001 C CNN
 F 3 "" H 4000 7350 60  0001 C CNN
 	1    4000 7350
 	1    0    0    -1  
@@ -285,7 +286,7 @@ U 1 1 4D92DF30
 P 3300 6700
 F 0 "SW4:9" H 3450 6800 50  0000 C CNN
 F 1 "SW4:4" H 3450 6870 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 3300 6700 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 3300 6700 60  0001 C CNN
 F 3 "" H 3300 6700 60  0001 C CNN
 	1    3300 6700
 	1    0    0    -1  
@@ -296,7 +297,7 @@ U 1 1 4D92DF2F
 P 4000 6700
 F 0 "SW4:10" H 4180 6800 50  0000 C CNN
 F 1 "SW4:3" H 4150 6870 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4000 6700 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4000 6700 60  0001 C CNN
 F 3 "" H 4000 6700 60  0001 C CNN
 	1    4000 6700
 	1    0    0    -1  
@@ -307,7 +308,7 @@ U 1 1 4D92DF2D
 P 4700 6700
 F 0 "SW4:11" H 4880 6800 50  0000 C CNN
 F 1 "SW4:2" H 4860 6870 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4700 6700 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4700 6700 60  0001 C CNN
 F 3 "" H 4700 6700 60  0001 C CNN
 	1    4700 6700
 	1    0    0    -1  
@@ -318,7 +319,7 @@ U 1 1 4D92DF2C
 P 5400 6700
 F 0 "SW4:12" H 5580 6800 50  0000 C CNN
 F 1 "SW4:1" H 5550 6870 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 5400 6700 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 5400 6700 60  0001 C CNN
 F 3 "" H 5400 6700 60  0001 C CNN
 	1    5400 6700
 	1    0    0    -1  
@@ -329,7 +330,7 @@ U 1 1 4D92DF15
 P 1900 6700
 F 0 "SW4:7" H 2050 6800 50  0000 C CNN
 F 1 "SW4:6" H 2050 6870 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 1900 6700 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 1900 6700 60  0001 C CNN
 F 3 "" H 1900 6700 60  0001 C CNN
 	1    1900 6700
 	1    0    0    -1  
@@ -351,76 +352,10 @@ U 1 1 4EB1DDAB
 P 1900 9300
 F 0 "SW0:7" H 2050 9400 50  0000 C CNN
 F 1 "SW0:6" H 2050 9470 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 1900 9300 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 1900 9300 60  0001 C CNN
 F 3 "" H 1900 9300 60  0001 C CNN
 	1    1900 9300
 	1    0    0    -1  
-$EndComp
-$Comp
-L component:6PIN J2
-U 1 1 4FD9E229
-P 4740 3650
-F 0 "J2" H 4690 4000 60  0000 C CNN
-F 1 "3.5mm" H 4690 3300 60  0000 C CNN
-F 2 "ErgoDone:4pin35mmAudio" H 4740 3650 60  0001 C CNN
-F 3 "" H 4740 3650 60  0001 C CNN
-	1    4740 3650
-	0    -1   -1   0   
-$EndComp
-$Comp
-L component:GND #PWR08
-U 1 1 4FD9EC6B
-P 4390 3100
-F 0 "#PWR08" H 4390 3100 30  0001 C CNN
-F 1 "GND" H 4390 3030 30  0001 C CNN
-F 2 "" H 4390 3100 60  0001 C CNN
-F 3 "" H 4390 3100 60  0001 C CNN
-	1    4390 3100
-	1    0    0    -1  
-$EndComp
-$Comp
-L component:GND #PWR09
-U 1 1 4FD9EC71
-P 5440 3100
-F 0 "#PWR09" H 5440 3100 30  0001 C CNN
-F 1 "GND" H 5440 3030 30  0001 C CNN
-F 2 "" H 5440 3100 60  0001 C CNN
-F 3 "" H 5440 3100 60  0001 C CNN
-	1    5440 3100
-	1    0    0    -1  
-$EndComp
-$Comp
-L component:VCC #PWR010
-U 1 1 4FD9EC7D
-P 4590 3150
-F 0 "#PWR010" H 4590 3250 30  0001 C CNN
-F 1 "VCC" H 4590 3250 30  0000 C CNN
-F 2 "" H 4590 3150 60  0001 C CNN
-F 3 "" H 4590 3150 60  0001 C CNN
-	1    4590 3150
-	1    0    0    -1  
-$EndComp
-$Comp
-L component:3PIN J3
-U 1 1 4FD9EE66
-P 4290 2850
-F 0 "J3" H 4240 3050 60  0000 C CNN
-F 1 "JMP" H 4240 2650 60  0000 C CNN
-F 2 "ErgoDone:100PITCH1X3" H 4290 2850 60  0001 C CNN
-F 3 "" H 4290 2850 60  0001 C CNN
-	1    4290 2850
-	0    -1   1    0   
-$EndComp
-$Comp
-L component:3PIN J4
-U 1 1 4FD9F052
-P 5340 2850
-F 0 "J4" H 5290 3050 60  0000 C CNN
-F 1 "JMP" H 5290 2650 60  0000 C CNN
-F 2 "ErgoDone:100PITCH1X3" H 5340 2850 60  0001 C CNN
-F 3 "" H 5340 2850 60  0001 C CNN
-	1    5340 2850
-	0    -1   1    0   
 $EndComp
 $Comp
 L component:SWITCH_DIODE SW2:10
@@ -428,7 +363,7 @@ U 1 1 4D92DFA3
 P 4000 8000
 F 0 "SW2:10" H 4180 8100 50  0000 C CNN
 F 1 "SW2:3" H 4160 8170 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4000 8000 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4000 8000 60  0001 C CNN
 F 3 "" H 4000 8000 60  0001 C CNN
 	1    4000 8000
 	1    0    0    -1  
@@ -441,7 +376,7 @@ U 1 1 4FFD34DA
 P 3300 6050
 F 0 "SW5:9" H 3450 6150 50  0000 C CNN
 F 1 "SW5:4" H 3450 6230 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 3300 6050 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 3300 6050 60  0001 C CNN
 F 3 "" H 3300 6050 60  0001 C CNN
 	1    3300 6050
 	1    0    0    -1  
@@ -452,7 +387,7 @@ U 1 1 4FFD34E0
 P 4000 6050
 F 0 "SW5:10" H 4170 6150 50  0000 C CNN
 F 1 "SW5:3" H 4150 6230 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4000 6050 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4000 6050 60  0001 C CNN
 F 3 "" H 4000 6050 60  0001 C CNN
 	1    4000 6050
 	1    0    0    -1  
@@ -463,7 +398,7 @@ U 1 1 4FFD34E6
 P 4700 6050
 F 0 "SW5:11" H 4880 6150 50  0000 C CNN
 F 1 "SW5:2" H 4850 6230 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4700 6050 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4700 6050 60  0001 C CNN
 F 3 "" H 4700 6050 60  0001 C CNN
 	1    4700 6050
 	1    0    0    -1  
@@ -474,7 +409,7 @@ U 1 1 4FFD34F2
 P 2600 6050
 F 0 "SW5:8" H 2750 6150 50  0000 C CNN
 F 1 "SW5:5" H 2750 6230 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 2600 6050 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 2600 6050 60  0001 C CNN
 F 3 "" H 2600 6050 60  0001 C CNN
 	1    2600 6050
 	1    0    0    -1  
@@ -485,7 +420,7 @@ U 1 1 4D92DF9B
 P 3300 8650
 F 0 "SW1:9" H 3450 8750 50  0000 C CNN
 F 1 "SW1:4" H 3450 8820 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 3300 8650 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 3300 8650 60  0001 C CNN
 F 3 "" H 3300 8650 60  0001 C CNN
 	1    3300 8650
 	1    0    0    -1  
@@ -496,7 +431,7 @@ U 1 1 4D92DEDD
 P 4000 9300
 F 0 "SW0:10" H 4180 9400 50  0000 C CNN
 F 1 "SW0:3" H 4150 9470 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4000 9300 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4000 9300 60  0001 C CNN
 F 3 "" H 4000 9300 60  0001 C CNN
 	1    4000 9300
 	1    0    0    -1  
@@ -560,21 +495,6 @@ Connection ~ 5100 6450
 Connection ~ 4400 6450
 Connection ~ 3000 6450
 Connection ~ 3700 9050
-Wire Wire Line
-	4890 2450 4890 3450
-Wire Wire Line
-	4490 3450 4490 3300
-Wire Wire Line
-	4490 3300 4290 3300
-Wire Wire Line
-	4290 3300 4290 3050
-Wire Wire Line
-	4790 3450 4790 3300
-Wire Wire Line
-	4790 3300 5340 3300
-Wire Wire Line
-	5340 3300 5340 3050
-Connection ~ 4690 2450
 Wire Wire Line
 	3000 6450 3000 6700
 Wire Wire Line
@@ -663,8 +583,6 @@ Wire Wire Line
 Wire Wire Line
 	1300 9050 1600 9050
 Connection ~ 4040 2550
-Wire Wire Line
-	4690 3450 4690 2450
 Wire Wire Line
 	4300 9400 4200 9400
 Wire Wire Line
@@ -814,7 +732,7 @@ P 4960 1090
 F 0 "C1" H 4985 1190 50  0000 L CNN
 F 1 "100nF" H 4985 990 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" H 4998 940 50  0001 C CNN
-F 3 "" H 4960 1090 50  0000 C CNN
+F 3 "" H 4960 1090 50  0001 C CNN
 	1    4960 1090
 	1    0    0    -1  
 $EndComp
@@ -840,27 +758,6 @@ F 3 "" H 4960 1290 60  0000 C CNN
 	1    4960 1290
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4040 3050 4190 3050
-Wire Wire Line
-	5240 3050 5090 3050
-Wire Wire Line
-	5090 3050 5090 2550
-Wire Wire Line
-	4590 3150 4590 3450
-$Comp
-L component:VCC #PWR021
-U 1 1 57BF2305
-P 4990 3150
-F 0 "#PWR021" H 4990 3250 30  0001 C CNN
-F 1 "VCC" H 4990 3250 30  0000 C CNN
-F 2 "" H 4990 3150 60  0001 C CNN
-F 3 "" H 4990 3150 60  0001 C CNN
-	1    4990 3150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4990 3450 4990 3150
 Wire Wire Line
 	3000 9050 3700 9050
 Wire Wire Line
@@ -908,8 +805,6 @@ Wire Wire Line
 Wire Wire Line
 	3700 9050 4400 9050
 Wire Wire Line
-	4690 2450 4890 2450
-Wire Wire Line
 	1600 6450 2300 6450
 Wire Wire Line
 	1600 7750 2300 7750
@@ -928,8 +823,6 @@ Wire Wire Line
 Wire Wire Line
 	1600 5800 2300 5800
 Wire Wire Line
-	4040 2550 4040 3050
-Wire Wire Line
 	4040 2550 4430 2550
 Wire Wire Line
 	5700 6150 5700 6050
@@ -941,7 +834,7 @@ U 1 1 4FFD34EC
 P 5400 6050
 F 0 "SW5:12" H 5580 6150 50  0000 C CNN
 F 1 "SW5:1" H 5550 6230 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 5400 6050 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 5400 6050 60  0001 C CNN
 F 3 "" H 5400 6050 60  0001 C CNN
 	1    5400 6050
 	1    0    0    -1  
@@ -952,13 +845,11 @@ U 1 1 4FFD34D4
 P 6100 6050
 F 0 "SW5:13" H 6280 6150 50  0000 C CNN
 F 1 "SW5:0" H 6240 6230 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 6100 6050 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 6100 6050 60  0001 C CNN
 F 3 "" H 6100 6050 60  0001 C CNN
 	1    6100 6050
 	1    0    0    -1  
 $EndComp
-Connection ~ 5090 2550
-Connection ~ 4890 2450
 Text Label 6390 2550 2    60   ~ 0
 SDAS
 Text Label 6390 2450 2    60   ~ 0
@@ -1198,10 +1089,6 @@ F 3 "" H 4500 4800 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 1100 1350
-Wire Wire Line
-	4890 2450 6390 2450
-Wire Wire Line
-	5090 2550 6390 2550
 Connection ~ 1700 6800
 Connection ~ 3100 6800
 Connection ~ 3800 6800
@@ -1213,7 +1100,7 @@ U 1 1 4D92DF34
 P 6100 6700
 F 0 "SW4:13" H 6280 6800 50  0000 C CNN
 F 1 "SW4:0" H 6250 6870 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 6100 6700 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 6100 6700 60  0001 C CNN
 F 3 "" H 6100 6700 60  0001 C CNN
 	1    6100 6700
 	1    0    0    -1  
@@ -1227,7 +1114,7 @@ U 1 1 4D92DF18
 P 2600 6700
 F 0 "SW4:8" H 2750 6800 50  0000 C CNN
 F 1 "SW4:5" H 2750 6870 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 2600 6700 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 2600 6700 60  0001 C CNN
 F 3 "" H 2600 6700 60  0001 C CNN
 	1    2600 6700
 	1    0    0    -1  
@@ -1422,7 +1309,7 @@ U 1 1 4FFD34F8
 P 1900 6050
 F 0 "SW5:7" H 2060 6150 50  0000 C CNN
 F 1 "SW5:6" H 2060 6230 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 1900 6050 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 1900 6050 60  0001 C CNN
 F 3 "" H 1900 6050 60  0001 C CNN
 	1    1900 6050
 	1    0    0    -1  
@@ -1468,7 +1355,7 @@ U 1 1 4D92DF8F
 P 4700 7350
 F 0 "SW3:11" H 4880 7450 50  0000 C CNN
 F 1 "SW3:2" H 4850 7520 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 4700 7350 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 4700 7350 60  0001 C CNN
 F 3 "" H 4700 7350 60  0001 C CNN
 	1    4700 7350
 	1    0    0    -1  
@@ -1484,7 +1371,7 @@ U 1 1 4D92DF8D
 P 5400 7350
 F 0 "SW3:12" H 5580 7450 50  0000 C CNN
 F 1 "SW3:1" H 5550 7520 50  0000 C CNN
-F 2 "Enhance:Kailh_socket_optional_reversible_diode_smd" H 5400 7350 60  0001 C CNN
+F 2 "Enhance:Kailh_socket_diode_smd" H 5400 7350 60  0001 C CNN
 F 3 "" H 5400 7350 60  0001 C CNN
 	1    5400 7350
 	1    0    0    -1  
@@ -1571,7 +1458,7 @@ P 5300 1090
 F 0 "C2" H 5325 1190 50  0000 L CNN
 F 1 "100nF" H 5325 990 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric" H 5338 940 50  0001 C CNN
-F 3 "" H 5300 1090 50  0000 C CNN
+F 3 "" H 5300 1090 50  0001 C CNN
 	1    5300 1090
 	1    0    0    -1  
 $EndComp
@@ -1634,14 +1521,10 @@ Wire Wire Line
 	4430 2390 4430 2550
 Connection ~ 4430 2550
 Wire Wire Line
-	4430 2550 5090 2550
-Wire Wire Line
 	4530 2390 4530 2450
 Wire Wire Line
 	4140 2450 4530 2450
 Connection ~ 4530 2450
-Wire Wire Line
-	4530 2450 4690 2450
 $Comp
 L Device:R R6
 U 1 1 5D887451
@@ -1791,4 +1674,52 @@ Wire Wire Line
 Wire Wire Line
 	3850 3340 3690 3340
 Connection ~ 3690 3340
+$Comp
+L Connector_Generic:Conn_01x05 J1
+U 1 1 5D84D8F3
+P 5080 3750
+F 0 "J1" V 5190 3510 50  0000 L CNN
+F 1 "3.5mm" V 5190 3700 50  0000 L CNN
+F 2 "Enhance:PJ-320A-Dual" H 5080 3750 50  0001 C CNN
+F 3 "" H 5080 3750 50  0001 C CNN
+	1    5080 3750
+	0    1    1    0   
+$EndComp
+$Comp
+L component:VCC #PWR0122
+U 1 1 5D96D754
+P 4980 3550
+F 0 "#PWR0122" H 4980 3650 30  0001 C CNN
+F 1 "VCC" H 4980 3650 30  0000 C CNN
+F 2 "" H 4980 3550 60  0001 C CNN
+F 3 "" H 4980 3550 60  0001 C CNN
+	1    4980 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5180 3550 5180 2550
+Wire Wire Line
+	5080 3550 5080 2450
+$Comp
+L component:GND #PWR0123
+U 1 1 5D84BD33
+P 4830 3550
+F 0 "#PWR0123" H 4830 3550 30  0001 C CNN
+F 1 "GND" H 4830 3480 30  0001 C CNN
+F 2 "" H 4830 3550 60  0001 C CNN
+F 3 "" H 4830 3550 60  0001 C CNN
+	1    4830 3550
+	0    1    1    0   
+$EndComp
+NoConn ~ 5280 3550
+Wire Wire Line
+	4530 2450 5080 2450
+Wire Wire Line
+	4430 2550 5180 2550
+Connection ~ 5080 2450
+Connection ~ 5180 2550
+Wire Wire Line
+	5180 2550 6390 2550
+Wire Wire Line
+	5080 2450 6390 2450
 $EndSCHEMATC
