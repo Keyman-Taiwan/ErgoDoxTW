@@ -16,21 +16,26 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 
 ## Keypart
 * Master branch:
-  * Type C Connector: HRO-TYPE-C-31-M-12 (A 16 Pins type c connector)
-  * 3.5 mm Audio Jack Connector: PJ-320A or PJ-320L
+  * Type C Connector: HRO-TYPE-C-31-M-12 (16 pins)
+  * 3.5 mm Audio Jack Connector: PJ-320A (4pins) or PJ-320E (5pins)
 
 ## Software Requirement
 * Kicad 5.1.4
 
 ## KiCad library used by ErgoDoxTW
-* [ai03-2725/Type-C](https://github.com/ai03-2725/Type-C.pretty): type-C Connector (we use HRO-TYPE-C-31-M-12)
+* [ai03-2725/Type-C Connecter](https://github.com/ai03-2725/Type-C.pretty): we use HRO-TYPE-C-31-M-12
 * [daprice/keyswitches](https://github.com/daprice/keyswitches.pretty): Kailh hotplug socket
-* [qmk/qmk_hardware](https://github.com/qmk/qmk_hardware/tree/master/components): Kailh hotplug 3d model
 * Some components in ErgoDone's library
 * Some components in ErgoDox's library
 
 ## KiCad Plugin used by ErgoDoxTW
 * [NilujePerchut/kicad_scripts](https://github.com/NilujePerchut/kicad_scripts): teardrop pluging
+
+## 3D model for preview
+* Kailh Hotplug Socket: [qmk/qmk_hardware](https://github.com/qmk/qmk_hardware/tree/master/components)
+* Cherry MX switch: [ConstantinoSchillebeeckx/cherry-mx-switch](https://github.com/ConstantinoSchillebeeckx/cherry-mx-switch)
+* Cherry MX Stabilizer: [GrabCad](https://grabcad.com/library/cherry-mx-stabilizer-mx-1)
+* smd Diode / Resistor / LED are built-in model in KiCad
 
 # Lisence
 LGPL v3

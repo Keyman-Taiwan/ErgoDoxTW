@@ -1,4 +1,4 @@
-(module Kailh_socket_diode_smd (layer F.Cu) (tedit 5D812CE3)
+(module Kailh_socket_diode_smd (layer F.Cu) (tedit 5D827310)
   (descr "MX-style keyswitch with support for reversible optional Kailh socket")
   (tags MX,cherry,gateron,kailh,pg1511,socket)
   (fp_text reference SW1:2 (at 0 2.794) (layer F.SilkS)
@@ -72,7 +72,7 @@
   (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.step
     (offset (xyz 0 -8.15 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 5 0 -180))
+    (rotate (xyz 0 0 -180))
   )
   (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.step
     (offset (xyz 0 -8.15 -1.8))
