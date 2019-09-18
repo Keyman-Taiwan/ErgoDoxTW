@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source D:\tmp\ergodox\ErgoDoxTW\ErgoDoxTW.sch)
-    (date "2019/9/19 上午 12:46:42")
+    (date "2019/9/19 上午 02:37:30")
     (tool "Eeschema (5.1.4)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -389,7 +389,7 @@
       (tstamp 5DB1338B))
     (comp (ref J1)
       (value 3.5mm)
-      (footprint Enhance:PJ-320A_and_320E-Dual)
+      (footprint Enhance:PJ-320A-Dual)
       (libsource (lib Connector_Generic) (part Conn_01x05) (description "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5D84D8F3)))
