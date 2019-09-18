@@ -17,7 +17,7 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 ## Keypart
 * Master branch:
   * Type C Connector: HRO-TYPE-C-31-M-12 (16 pins)
-  * 3.5 mm Audio Jack Connector: PJ-320A (4pins) or PJ-320E (5pins)
+  * 3.5 mm Audio Jack Connector: PJ-320A (4pins)
 
 ## Software Requirement
 * Kicad 5.1.4
