@@ -4,7 +4,7 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 ## PCB Preview in KiCad
 ![pcb preview](https://raw.githubusercontent.com/Keyman-Taiwan/ErgoDoxTW/master/pcb_preview.png)
 
-`IMPORTANT`: v1.2 has not been product and validate.
+`IMPORTANT`: v1.3 has not been product and validate.
 
 ## Difference with ErgoDone
 1. Rollback to use Teensy 2.0 for main controller (same as ErgoDox)
@@ -12,12 +12,14 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 3. USB Type-C connector (only support USB 2.0 due to Teensy 2.0)
 4. Support to use Kailh hot plug socket
 5. Support to use SMD 1206 component for Resistor and Capacitor
-6. **`ONLY`** support 76 keys due to pcb layout change.
+6. **`ONLY`** support 76 keys due to component change and pcb layout change.
 
 ## Keypart
 * Master branch:
   * Type C Connector: HRO-TYPE-C-31-M-12 (16 pins)
-  * 3.5 mm Audio Jack Connector: PJ-320A (4pins)
+  * Hot plug socket: support both Kailh and Gateron 
+  * 3.5 mm Connector: support both PJ-320A (4pins) and PJ-320E (5pins)
+    * (PJ-320A x2) or (PJ-320E x2) or (PJ-320A x1 + PJ-320E x1)
 
 ## Software Requirement
 * Kicad 5.1.4
@@ -32,10 +34,10 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 * [NilujePerchut/kicad_scripts](https://github.com/NilujePerchut/kicad_scripts): teardrop pluging
 
 ## 3D model for preview
-* Kailh Hotplug Socket: [qmk/qmk_hardware](https://github.com/qmk/qmk_hardware/tree/master/components)
-* Cherry MX switch: [ConstantinoSchillebeeckx/cherry-mx-switch](https://github.com/ConstantinoSchillebeeckx/cherry-mx-switch)
-* Cherry MX Stabilizer: [GrabCad](https://grabcad.com/library/cherry-mx-stabilizer-mx-1)
+* [Kailh Hotplug Socket](https://github.com/qmk/qmk_hardware/tree/master/components): from qmk @ github
+* [Cherry MX switch](https://github.com/ConstantinoSchillebeeckx/cherry-mx-switch): from ConstantinoSchillebeeckx @ github
+* [Cherry MX Stabilizer](https://grabcad.com/library/cherry-mx-stabilizer-mx-1): from GrabCad
 * smd Diode / Resistor / LED are built-in model in KiCad
 
 # Lisence
-LGPL v3
+GPL v3
