@@ -3,7 +3,6 @@
 *.kicad_pcb-bak
 *-cache.lib
 _autosave-ErgoDOX.kicad_pcb
-ref_data/*
 
 # Packages #
 ############
