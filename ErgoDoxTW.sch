@@ -1691,4 +1691,16 @@ F 3 "" H 3650 5510 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 3650 5460
+$Comp
+L component:VCC #PWR?
+U 1 1 5D879D8D
+P 4750 4710
+F 0 "#PWR?" H 4750 4810 30  0001 C CNN
+F 1 "VCC" V 4753 4808 30  0000 L CNN
+F 2 "" H 4750 4710 60  0000 C CNN
+F 3 "" H 4750 4710 60  0000 C CNN
+	1    4750 4710
+	0    1    1    0   
+$EndComp
+Connection ~ 4750 4710
 $EndSCHEMATC
