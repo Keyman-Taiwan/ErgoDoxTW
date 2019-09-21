@@ -14,12 +14,16 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 5. Support to use SMD 1206 component for Resistor and Capacitor
 6. **`ONLY`** support 76 keys due to component change and pcb layout change.
 
-## Keypart
-* Master branch:
-  * Type C Connector: HRO-TYPE-C-31-M-12 (16 pins)
+## Keyparts
+* Common parts for all branch:
   * Hot plug socket: support both Kailh and Gateron 
-  * 3.5 mm Connector: support both PJ-320A (4pins) and PJ-320E (5pins)
+  * 3.5 mm audio socket: support both PJ-320A (4pins) and PJ-320E (5pins)
     * (PJ-320A x2) or (PJ-320E x2) or (PJ-320A x1 + PJ-320E x1)
+
+* Different parts
+  * Type C Connector:
+    * Master branch: HRO-TYPE-C-31-M-12 (SMD Type, 16 pins)
+    * USB_C_DIP branch: UB228-F16S4BR-A_DIP (DIP Type, 16 pins)
 
 ## Software Requirement
 * Kicad 5.1.4
@@ -37,7 +41,7 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 * [Kailh Hotplug Socket](https://github.com/qmk/qmk_hardware/tree/master/components): from qmk @ github
 * [Cherry MX switch](https://github.com/ConstantinoSchillebeeckx/cherry-mx-switch): from ConstantinoSchillebeeckx @ github
 * [Cherry MX Stabilizer](https://grabcad.com/library/cherry-mx-stabilizer-mx-1): from GrabCad
-* smd Diode / Resistor / LED are built-in model in KiCad
+* SMD Diode / Resistor / LED are built-in model in KiCad
 
 # Lisence
 GPL v3
