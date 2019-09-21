@@ -17,7 +17,7 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 ## Keyparts
 * Common parts for all branch:
   * Hot plug socket: support both Kailh and Gateron 
-  * 3.5 mm audio socket: support both PJ-320A (4pins) and PJ-320E (5pins)
+  * 3.5 mm audio socket: support both PJ-320A (4pins) and PJ-320E (5pins), please check folder ref_data/3.5mm
     * (PJ-320A x2) or (PJ-320E x2) or (PJ-320A x1 + PJ-320E x1)
 
 * Different parts
@@ -29,7 +29,7 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 * Kicad 5.1.4
 
 ## KiCad library used by ErgoDoxTW
-* [ai03-2725/Type-C Connecter](https://github.com/ai03-2725/Type-C.pretty): we use HRO-TYPE-C-31-M-12
+* [ai03-2725/Type-C Connecter](https://github.com/ai03-2725/Type-C.pretty): HRO-TYPE-C-31-M-12
 * [daprice/keyswitches](https://github.com/daprice/keyswitches.pretty): Kailh hotplug socket
 * Some components in ErgoDone's library
 * Some components in ErgoDox's library
