@@ -1,8 +1,8 @@
-# ErgoDoxTW
+# ErgoDoneTW
 Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/commit/091d1d12327a9dc95b3b4be09c8e6d85ce0d4d30)  
 
 ## PCB Preview in KiCad
-![pcb preview](https://raw.githubusercontent.com/Keyman-Taiwan/ErgoDoxTW/master/pcb_preview.png)
+![pcb preview](https://raw.githubusercontent.com/Keyman-Taiwan/ErgoDoneTW/master/pcb_preview.png)
 
 `IMPORTANT`: v1.3 has not been product and validate.
 
@@ -13,6 +13,11 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 4. Support to use Kailh hot plug socket
 5. Support to use SMD 1206 component for Resistor and Capacitor
 6. **`ONLY`** support 76 keys due to component change and pcb layout change.
+
+## Branche Description
+* master: IC on LEFT hand, use SMD usb type c connector
+* USB_C_DIP: IC on LEFT hand, DIP usb type c connector
+* USB_C_DIP_RightHand: IC on Right hand, DIP usb type c connector (Compatible with ErgoDox Configurator)
 
 ## Keyparts
 * Common parts for all branch:
