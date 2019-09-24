@@ -1,4 +1,4 @@
-# ErgoDoxTW
+# ErgoDoneTW
 Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/commit/091d1d12327a9dc95b3b4be09c8e6d85ce0d4d30)  
 
 ## PCB Preview in KiCad
@@ -14,6 +14,11 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 5. Support to use SMD 1206 component for Resistor and Capacitor
 6. **`ONLY`** support 76 keys due to component change and pcb layout change.
 
+## Branche Description
+* master: IC on LEFT hand, use SMD usb type c connector
+* USB_C_DIP: IC on LEFT hand, DIP usb type c connector
+* USB_C_DIP_RightHand: IC on Right hand, DIP usb type c connector (Compatible with ErgoDox Configurator)
+
 ## Keyparts
 * Common parts for all branch:
   * Hot plug socket: support both Kailh and Gateron 
@@ -28,13 +33,13 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 ## Software Requirement
 * Kicad 5.1.4
 
-## KiCad library used by ErgoDoxTW
+## KiCad library used by ErgoDoneTW
 * [ai03-2725/Type-C Connecter](https://github.com/ai03-2725/Type-C.pretty): HRO-TYPE-C-31-M-12
 * [daprice/keyswitches](https://github.com/daprice/keyswitches.pretty): Kailh hotplug socket
 * Some components in ErgoDone's library
 * Some components in ErgoDox's library
 
-## KiCad Plugin used by ErgoDoxTW
+## KiCad Plugin used by ErgoDoneTW
 * [NilujePerchut/kicad_scripts](https://github.com/NilujePerchut/kicad_scripts): teardrop pluging
 
 ## 3D model for preview
