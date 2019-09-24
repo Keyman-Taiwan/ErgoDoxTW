@@ -33,13 +33,13 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 ## Software Requirement
 * Kicad 5.1.4
 
-## KiCad library used by ErgoDoxTW
+## KiCad library used by ErgoDoneTW
 * [ai03-2725/Type-C Connecter](https://github.com/ai03-2725/Type-C.pretty): HRO-TYPE-C-31-M-12
 * [daprice/keyswitches](https://github.com/daprice/keyswitches.pretty): Kailh hotplug socket
 * Some components in ErgoDone's library
 * Some components in ErgoDox's library
 
-## KiCad Plugin used by ErgoDoxTW
+## KiCad Plugin used by ErgoDoneTW
 * [NilujePerchut/kicad_scripts](https://github.com/NilujePerchut/kicad_scripts): teardrop pluging
 
 ## 3D model for preview
