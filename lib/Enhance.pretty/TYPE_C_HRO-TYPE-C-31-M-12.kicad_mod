@@ -1,4 +1,4 @@
-(module TYPE_C_HRO-TYPE-C-31-M-12 (layer F.Cu) (tedit 5D792BC0)
+(module TYPE_C_HRO-TYPE-C-31-M-12 (layer F.Cu) (tedit 5D9236AB)
   (attr smd)
   (fp_text reference REF** (at 0 -5.588) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -61,9 +61,4 @@
   (pad 5 thru_hole circle (at -1.0286 -10.2743) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 0.9968 -10.2743) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at 3.0222 -10.2743) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.Mask))
-  (model "${KIPRJMOD}/lib/Enhance.pretty/HRO  TYPE-C-31-M-12.step"
-    (offset (xyz -4.47 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 90 180 180))
-  )
 )
