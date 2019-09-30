@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source D:\tmp\ergodox\ErgoDoneTW\ErgoDoneTW.sch)
-    (date "2019/9/24 下午 11:13:27")
+    (date "2019/9/26 上午 12:03:15")
     (tool "Eeschema (5.1.4)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
