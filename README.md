@@ -4,6 +4,8 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 ## PCB Preview in KiCad
 ![pcb preview](https://raw.githubusercontent.com/Keyman-Taiwan/ErgoDoxTW/master/pcb_preview.png)
 
+this preview will be update later
+
 `IMPORTANT`: v1.4 is under validate.
 
 ## Difference/Improvement with ErgoDone
@@ -12,13 +14,9 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 3. USB Type-C connector (only support USB 2.0 due to Teensy 2.0)
 4. Support to use Kailh hot plug socket
 5. Support to use SMD 1206 component for Resistor and Capacitor
-6. Change TRRS socket to PJ-320A/E, which is more easy to find and cheapper.
+6. Change TRRS socket to PJ-320A/E, which is more easy to find and cheapper. (please check folder ref_data/3.5mm
+)
 7. **`ONLY`** support 76 keys due to component change and pcb layout change.
-
-## Improvment
-* Common parts for all branch:
-  * Hot plug socket: support both Kailh and Gateron 
-  * 3.5 mm audio socket: support both PJ-320A (4pins) and PJ-320E (5pins), please check folder ref_data/3.5mm
 
 ## Branch Description
 * master: IC on Right hand, DIP usb type c connector (Compatible with ErgoDox Configurator)
