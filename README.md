@@ -2,7 +2,7 @@
 Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/commit/091d1d12327a9dc95b3b4be09c8e6d85ce0d4d30)  
 
 ## PCB Preview in KiCad
-![pcb preview](https://raw.githubusercontent.com/Keyman-Taiwan/ErgoDoxTW/master/full_preview_small.png)
+![pcb preview](https://raw.githubusercontent.com/Keyman-Taiwan/ErgoDoxTW/master/preview/full_preview_small.png)
 You can find a larger image in the preview folder.
 
 `IMPORTANT`: v1.4 is under validate.
