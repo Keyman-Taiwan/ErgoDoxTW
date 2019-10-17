@@ -5,15 +5,15 @@ Change was made based on [ErgoDone v1.5](https://github.com/ktec-hq/ErgoDone/com
 ![pcb preview](https://raw.githubusercontent.com/Keyman-Taiwan/ErgoDoxTW/master/preview/full_preview_small.png)
 You can find a larger image in the preview folder.
 
-`IMPORTANT`: v1.4 is under validate.
+`IMPORTANT`: v1.4 has been validated.
 
 ## Difference/Improvement with ErgoDone
 1. Rollback to use Teensy 2.0 for main controller (same as ErgoDox)
 2. Rollback to use MCP23018 for IO expander (same as ErgoDox)
 3. USB Type-C connector (only support USB 2.0 due to Teensy 2.0)
-4. Support to use Kailh hot plug socket
+4. Support to use Kailh / Gateron hot plug socket
 5. Support to use SMD 1206 component for Resistor and Capacitor
-6. Change TRRS socket to PJ-320A/E, which is more easy to find and cheapper. (please check folder ref_data/3.5mm
+6. Change TRRS socket to PJ-320A and PJ-320E, which is more easy to find and cheapper. (please check folder ref_data/3.5mm
 )
 7. **`ONLY`** support 76 keys due to component change and pcb layout change.
 
@@ -61,7 +61,6 @@ You can find a larger image in the preview folder.
 | 3.5mm TRRS socket                |    2   | PJ-320A or PJ-320E                                                                                                                   |
 | 3.5mm TRRS Cable                 |    1   | A male to male cable, for connect two pcbs.                                                                                          |
 | ErgoDoxTW Keyboard case          |    1   | Acrylic Case                                                                                                                         |
-
 
 # Lisence
 GPL v3
