@@ -1,0 +1,39 @@
+Drill report for D:\tmp\ergodox\ErgoDoxTW\ErgoDoxTW.kicad_pcb
+Created on 2019/10/18 上午 12:22:02
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  Front                     front
+    L2 :  Back                      back
+
+
+Drill file 'ErgoDoxTW.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (16 holes)
+    T2  0.51mm  0.020"  (5 holes)
+    T3  0.70mm  0.028"  (13 holes)  (with 13 slots)
+    T4  0.76mm  0.030"  (3 holes)
+    T5  0.80mm  0.031"  (14 holes)
+    T6  0.90mm  0.035"  (6 holes)
+    T7  0.99mm  0.039"  (83 holes)
+    T8  1.09mm  0.043"  (1 hole)
+    T9  1.09mm  0.043"  (48 holes)
+    T10  1.50mm  0.059"  (152 holes)
+
+    Total plated holes count 341
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T11  1.09mm  0.043"  (3 holes)
+    T12  1.20mm  0.047"  (4 holes)
+    T13  1.50mm  0.059"  (4 holes)
+    T14  1.70mm  0.067"  (152 holes)
+    T15  3.00mm  0.118"  (152 holes)
+    T16  3.05mm  0.120"  (4 holes)
+    T17  3.99mm  0.157"  (42 holes)
+    T18  6.38mm  0.251"  (8 holes)
+
+    Total unplated holes count 369
